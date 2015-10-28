@@ -1,0 +1,12 @@
+{
+  "name": "hcjs-web",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.13.3",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.2"
+  }
+}
